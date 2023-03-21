@@ -1,0 +1,243 @@
+@media screen and (max-width: 550px) {
+    .off {
+        display: none !important;
+    }
+    .item_freeback .name_avatar{
+        display: flex !important;
+    }
+    .freeback_mobile {
+        margin: 0;
+        width: 100%;
+    }
+
+    .tn {
+        display: block !important;
+    }
+
+    .iteam_one .img_footer img {
+        width: auto !important;
+    }
+
+    .suppost .btn_suppost {
+        margin: 0 auto;
+        max-width: 80%;
+        margin-top: 20px !important;
+    }
+
+    .footer_a {
+        width: 100%;
+    }
+
+    .foter_content .row {
+        margin: 0;
+    }
+
+    .suppost {
+        text-align: center;
+        display: block;
+    }
+
+    .antuong .antuongmh {
+        display: block;
+        margin: 0 10px;
+    }
+
+    .antuong .text {
+        width: 100%;
+        padding: 0 0 20px 0;
+    }
+
+    .item_antuong {
+        display: block;
+    }
+
+    .item_antuong .item:nth-child(1) {
+        border-top: none;
+    }
+
+    .item_antuong .item {
+        padding: 15px;
+        border-top: 1px solid rgba(221, 221, 221, 0.219);
+        width: 100%;
+        border-left: none;
+        text-align: center;
+    }
+
+    .item_antuong .item p {
+        margin: 0;
+    }
+
+    .freeback_destop {
+        display: none !important;
+    }
+
+    .freeback_mobile {
+        display: block !important;
+    }
+
+    .login_tin .login_v {
+        display: block;
+    }
+
+    .login_tin {
+        padding: 20px 23px;
+        width: 100%;
+        display: inline-block;
+    }
+
+    .row {
+        margin: 0;
+    }
+
+    .login_tin .login_v {
+        width: 100%;
+    }
+
+    .pia .row {
+        margin: 0;
+    }
+
+    .comtent_pia {
+        width: 100%;
+    }
+
+    .login_v .left_tin,
+    .login_v .right_form {
+        width: 100%;
+        padding: 0;
+    }
+
+    .left_tin .img_tin {
+        width: 43px;
+    }
+
+    .fix {
+        width: 100%;
+        right: 0;
+        left: 0;
+        z-index: 3;
+        bottom: -1px;
+        position: fixed;
+    }
+
+    .fix .fix_icon {
+        justify-content: space-between;
+        align-items: flex-end;
+        display: flex;
+        height: auto;
+        width: auto;
+        padding: 5px 0;
+        background-color: #fff;
+    }
+
+    .fix .fix_icon a {
+        width: 20%;
+        display: block;
+    }
+
+    .text_suppost p {
+        width: 90%;
+    }
+
+    .phone_fix {
+        display: block !important;
+    }
+
+    .phone_fix img {
+        width: 50px !important;
+        height: 50px !important;
+        transform: translateX(-50%);
+        bottom: 27px;
+        position: absolute;
+        border-radius: 50%;
+        padding: 10px;
+        background-color: #6cb917;
+        border: 2px solid white;
+    }
+    .phone_fix p{
+        line-height: 1;
+    }
+
+    .item_fix p {
+        margin-bottom: 0;
+    }
+
+}
+
+@media screen and (max-width: 849px) {
+    .container {
+        width: auto !important;
+    }
+    .item_freeback .name_avatar{
+        display: block;
+    }
+
+    .bq .text_bq {
+        text-align: center;
+    }
+
+    .iteam_one .img_footer img {
+        width: 100%;
+    }
+
+    .header_seach .item_Two {
+        display: none;
+    }
+
+    #heade .header_dress .item:nth-child(1) {
+        margin-left: 0;
+    }
+
+    #heade .menu,
+    #home .home_login {
+        display: none;
+    }
+
+    .home_login .container {
+        width: 100% !important;
+    }
+
+    .home_login .text_home p {
+        width: 100%;
+    }
+
+    .header_seach .header-item {
+        justify-content: center;
+    }
+
+    #heade .header_dress {
+        padding: 0 15px;
+        align-items: center;
+    }
+
+    .header_dress .menu_phone {
+        display: block;
+        margin-right: 34%
+    }
+
+    .header_dress .item:nth-child(n+3) {
+        display: none;
+    }
+
+    .product_One {
+        margin: 0 !important;
+        width: 100%;
+    }
+
+    .product_One .re {
+        margin-top: 20px;
+    }
+
+    .product_One .show_img .avatar_product {
+        width: 10%;
+    }
+
+    .introduce .content_introduce {
+        width: 100%;
+        margin: 0;
+    }
+
+    .text_intraduce p:nth-child(3) {
+        text-align: justify;
+    }
+}
